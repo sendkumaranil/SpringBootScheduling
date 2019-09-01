@@ -11,7 +11,7 @@
 	<artifactId>springbootscheduling</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>springbootscheduling</name>
-	<description>Demo project for Spring Boot Scheduling</description>
+	<description>Demo project for Spring Boot Scheduling With Jenkin Job</description>
 
 	<properties>
 		<java.version>1.8</java.version>
